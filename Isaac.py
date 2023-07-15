@@ -1,3 +1,3 @@
 def print_name():
-    print("My name Joel")
+    print("My name is Joel")
     
